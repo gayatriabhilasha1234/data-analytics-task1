@@ -1,2 +1,6 @@
 # data-analytics-task1
-Dataset cleaning
+Loaded the Dataset
+Handled Missing Values
+Removed Duplicate Rows
+Renamed Column Headers
+Saved Cleaned Dataset
